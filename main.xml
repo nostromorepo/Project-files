@@ -1,0 +1,55 @@
+<dir>
+<title>Marvel Universe</title>
+	<link>https://github.com/nostromorepo/Project-files/raw/master/mav.xml</link>
+	<thumbnail>https://github.com/nostromorepo/Project-files/raw/master/5bbffb6a00fa4_MarvelCinematicUniverseposter.png</thumbnail>
+	<fanart>https://github.com/nostromorepo/Project-files/raw/master/94668.jpg</fanart>
+</dir>
+
+<dir>
+<title>DC Universe</title>
+	<link>https://github.com/nostromorepo/Project-files/raw/master/DC.xml</link>
+	<thumbnail>https://github.com/nostromorepo/Project-files/raw/master/dcposter.png</thumbnail>
+	<fanart>https://github.com/nostromorepo/Project-files/raw/master/dcwall.jpg</fanart>
+</dir>
+
+<dir>
+<title>Disney</title>
+	<link>https://github.com/nostromorepo/Project-files/raw/master/dis.xml</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</dir>
+
+<dir>
+<title>Pixar</title>
+	<link>https://github.com/nostromorepo/Project-files/raw/master/pix.xml</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</dir>	
+
+<dir>
+<title>Alien</title>
+	<link>https://github.com/nostromorepo/Project-files/raw/master/The%20Alien%20Collection.xml</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</dir>
+
+<dir>
+<title>Indianna Jones</title>
+	<link>https://github.com/nostromorepo/Project-files/raw/master/indiana%20jones.xml</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</dir>
+
+<dir>
+<title>Jurassic Park</title>
+	<link>https://github.com/nostromorepo/Project-files/raw/master/jurrassic%20park.xml</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</dir>
+
+<dir>
+<title>Back To The Future</title>
+	<link>https://github.com/nostromorepo/Project-files/raw/master/back%20to%20the%20future.xml</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</dir>				
