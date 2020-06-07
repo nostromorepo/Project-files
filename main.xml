@@ -15,41 +15,41 @@
 <dir>
 <title>Disney</title>
 	<link>https://github.com/nostromorepo/Project-files/raw/master/dis.xml</link>
-	<thumbnail></thumbnail>
-	<fanart></fanart>
+	<thumbnail>https://github.com/nostromorepo/Project-files/raw/master/Walt-Disney-poster.png</thumbnail>
+	<fanart>https://github.com/nostromorepo/Project-files/raw/master/waltd.jpg</fanart>
 </dir>
 
 <dir>
 <title>Pixar</title>
 	<link>https://github.com/nostromorepo/Project-files/raw/master/pix.xml</link>
-	<thumbnail></thumbnail>
-	<fanart></fanart>
+	<thumbnail>https://github.com/nostromorepo/Project-files/raw/master/Pixarposter.jpg</thumbnail>
+	<fanart>https://github.com/nostromorepo/Project-files/raw/master/Pixarposter.jpg</fanart>
 </dir>	
 
 <dir>
 <title>Alien</title>
 	<link>https://github.com/nostromorepo/Project-files/raw/master/The%20Alien%20Collection.xml</link>
-	<thumbnail></thumbnail>
-	<fanart></fanart>
+	<thumbnail>https://github.com/nostromorepo/Project-files/raw/master/Alienposter.jpg</thumbnail>
+	<fanart>https://github.com/nostromorepo/Project-files/raw/master/alienwallpaper.jpg</fanart>
 </dir>
 
 <dir>
 <title>Indianna Jones</title>
 	<link>https://github.com/nostromorepo/Project-files/raw/master/indiana%20jones.xml</link>
-	<thumbnail></thumbnail>
-	<fanart></fanart>
+	<thumbnail>https://github.com/nostromorepo/Project-files/raw/master/Indiana-Jonesposter.jpg</thumbnail>
+	<fanart>https://github.com/nostromorepo/Project-files/raw/master/Indiana-Joneswallpaper.jpg</fanart>
 </dir>
 
 <dir>
 <title>Jurassic Park</title>
 	<link>https://github.com/nostromorepo/Project-files/raw/master/jurrassic%20park.xml</link>
-	<thumbnail></thumbnail>
-	<fanart></fanart>
+	<thumbnail>https://github.com/nostromorepo/Project-files/raw/master/Jurassicposter.png</thumbnail>
+	<fanart>https://github.com/nostromorepo/Project-files/raw/master/jurassicwallpaper.jpg</fanart>
 </dir>
 
 <dir>
 <title>Back To The Future</title>
 	<link>https://github.com/nostromorepo/Project-files/raw/master/back%20to%20the%20future.xml</link>
-	<thumbnail></thumbnail>
-	<fanart></fanart>
+	<thumbnail>https://github.com/nostromorepo/Project-files/raw/master/Back-to-the-Futureposter.jpg</thumbnail>
+	<fanart>https://github.com/nostromorepo/Project-files/raw/master/backfuturewallpaper.jpg</fanart>
 </dir>				
