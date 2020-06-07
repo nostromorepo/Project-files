@@ -55,10 +55,31 @@
 </dir>
 
 <dir>
-<title>100 Best Horror</title>
-	<link>https://github.com/nostromorepo/Project-files/raw/master/Top_100_Horror_Films_of_All_Time.xml</link>
-	<thumbnail>https://github.com/nostromorepo/Project-files/raw/master/horrorposter.jpg</thumbnail>
-	<fanart>https://github.com/nostromorepo/Project-files/raw/master/horrorwall.jpg</fanart>
+<title>Star Wars</title>
+	<link>https://github.com/nostromorepo/Project-files/raw/master/Star_Wars_Movies_in_Chronological_Order.xml</link>
+	<thumbnail>https://github.com/nostromorepo/Project-files/raw/master/starwarsposter.jpg</thumbnail>
+	<fanart>https://github.com/nostromorepo/Project-files/raw/master/star-wars-background.jpg</fanart>
+</dir>
+
+<dir>
+<title>The Matrix</title>
+	<link>https://github.com/nostromorepo/Project-files/raw/master/The_Matrix_Trilogy.xml</link>
+	<thumbnail>https://github.com/nostromorepo/Project-files/raw/master/matrix-collectionposter.jpg</thumbnail>
+	<fanart>https://github.com/nostromorepo/Project-files/raw/master/the-matrix-neo-wallpaper.jpg</fanart>
+</dir>
+
+<dir>
+<title>The Lord Of The Rings</title>
+	<link>https://github.com/nostromorepo/Project-files/raw/master/The_Lord_of_the_Rings_Movies.xml</link>
+	<thumbnail>https://github.com/nostromorepo/Project-files/raw/master/lotringsposter.jpg</thumbnail>
+	<fanart>https://github.com/nostromorepo/Project-files/raw/master/lotringswallpaper.jpg</fanart>
+</dir>
+
+<dir>
+<title>The Terminator</title>
+	<link>https://github.com/nostromorepo/Project-files/raw/master/The%20Alien%20Collection.xml</link>
+	<thumbnail>https://github.com/nostromorepo/Project-files/raw/master/terminatorposter.jpg</thumbnail>
+	<fanart>https://github.com/nostromorepo/Project-files/raw/master/scifiwall.jpg</fanart>
 </dir>
 
 <dir>
@@ -67,5 +88,12 @@
 	<thumbnail>https://github.com/nostromorepo/Project-files/raw/master/scificollection.jpg</thumbnail>
 	<fanart>https://github.com/nostromorepo/Project-files/raw/master/scifiwall.jpg</fanart>
 </dir>	
+
+<dir>
+<title>100 Best Sci-fi</title>
+	<link>https://github.com/nostromorepo/Project-files/raw/master/100_Best_Sci_Fi_movies.xml</link>
+	<thumbnail>https://github.com/nostromorepo/Project-files/raw/master/scificollection.jpg</thumbnail>
+	<fanart>https://github.com/nostromorepo/Project-files/raw/master/scifiwall.jpg</fanart>
+</dir>
 
 			
