@@ -106,21 +106,21 @@
 <dir>
 <title>100 Best Horror</title>
 	<link>https://github.com/nostromorepo/Project-files/raw/master/Top_100_Horror_Films_of_All_Time.xml</link>
-	<thumbnail>https://github.com/nostromorepo/Project-files/raw/master/bhorror.jpg</thumbnail>
+	<thumbnail>https://github.com/nostromorepo/Project-files/raw/master/bhorror.png</thumbnail>
 	<fanart>https://github.com/nostromorepo/Project-files/raw/master/horrorwall.jpg</fanart>
 </dir>
 
 <dir>
 <title>100 Best Sci-fi</title>
 	<link>https://github.com/nostromorepo/Project-files/raw/master/100_Best_Sci_Fi_movies.xml</link>
-	<thumbnail>https://github.com/nostromorepo/Project-files/raw/master/bsci-fi.jpg</thumbnail>
+	<thumbnail>https://github.com/nostromorepo/Project-files/raw/master/bsci-fi.png</thumbnail>
 	<fanart>https://github.com/nostromorepo/Project-files/raw/master/scifiwall.jpg</fanart>
 </dir>
 
 <dir>
 <title>100 Best Fantasy</title>
 	<link>https://github.com/nostromorepo/Project-files/raw/master/100_Best_Fantasy_movies.xml</link>
-	<thumbnail>https://github.com/nostromorepo/Project-files/raw/master/bfantasy.jpg</thumbnail>
+	<thumbnail>https://github.com/nostromorepo/Project-files/raw/master/bfantasy.png</thumbnail>
 	<fanart>https://github.com/nostromorepo/Project-files/raw/master/fantasywall.jpg</fanart>
 </dir>
 
