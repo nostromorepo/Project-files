@@ -104,6 +104,13 @@
 </dir>
 
 <dir>
+<title>Stoner</title>
+	<link>https://github.com/nostromorepo/Project-files/raw/master/Best_Stoner_Movies_Of_All_Time.xml</link>
+	<thumbnail>https://github.com/nostromorepo/Project-files/raw/master/stonerposter.jpg</thumbnail>
+	<fanart>https://github.com/nostromorepo/Project-files/raw/master/stonerwall.jpg</fanart>
+</dir>
+
+<dir>
 <title>100 Best Horror</title>
 	<link>https://github.com/nostromorepo/Project-files/raw/master/Top_100_Horror_Films_of_All_Time.xml</link>
 	<thumbnail>https://github.com/nostromorepo/Project-files/raw/master/bhorror.png</thumbnail>
