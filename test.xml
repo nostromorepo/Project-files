@@ -9,13 +9,8 @@
 	<link>
 	<sublink name=[COLOR orange]Trailer Link[/COLOR]>https://www.youtube.com/watch?v=ZsJz2TJAPjw&feature=youtu.be (Play Trailer)</sublink>
 	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/9799/links/</sublink>
-	<plugin>
-      <title>Search</title>
-      <link>plugin://plugin.video.elementum/search</link>
-      <thumbnail>https://archive.org/download/script.metalgearsolid-6.7.7/torrent.png</thumbnail>
-      <fanart>https://archive.org/download/script.metalgearsolid-6.7.7/M37TGZ.jpg</fanart>
-    </plugin>
-	</link>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>ActivateWindow(10025,&quot;plugin://plugin.video.resistance/?action=searchNavigator&quot;,return)</sublink>
+    </link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/5En3O5t9LG8PfRaNs3vKfMdjQ1B.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/7sHktJV6gpffCVtuzb3l0YGmJu7.jpg</fanart>
 </item>
