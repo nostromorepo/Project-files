@@ -111,6 +111,27 @@
 </dir>
 
 <dir>
+<title>James Bond</title>
+	<link>https://github.com/nostromorepo/Project-files/raw/master/The_James_Bond_Films.xml</link>
+	<thumbnail>https://github.com/nostromorepo/Project-files/raw/master/james-bond-poster.jpg</thumbnail>
+	<fanart>https://github.com/nostromorepo/Project-files/raw/master/jamesbondposter.jpg</fanart>
+</dir>
+
+<dir>
+<title>Underworld</title>
+	<link>https://github.com/nostromorepo/Project-files/raw/master/Underworld_Collection.xml</link>
+	<thumbnail>https://github.com/nostromorepo/Project-files/raw/master/underworldposter.png</thumbnail>
+	<fanart>https://github.com/nostromorepo/Project-files/raw/master/underworldwall.jpg</fanart>
+</dir>
+
+<dir>
+<title>Pirates of the Caribbean</title>
+	<link>https://github.com/nostromorepo/Project-files/raw/master/Ranking_Pirates_of_the_Caribbean_Best_to_Worst.xml</link>
+	<thumbnail>https://github.com/nostromorepo/Project-files/raw/master/Pirates%20of%20the%20Caribbean%20poster.jpeg</thumbnail>
+	<fanart>https://github.com/nostromorepo/Project-files/raw/master/pirateswall.jpg</fanart>
+</dir>
+
+<dir>
 <title>100 Best Action</title>
 	<link>https://github.com/nostromorepo/Project-files/raw/master/Top_100_Greatest_Action_Movies_of_All_Time.xml</link>
 	<thumbnail>https://github.com/nostromorepo/Project-files/raw/master/actionposter.png</thumbnail>
