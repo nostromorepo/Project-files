@@ -132,6 +132,13 @@
 </dir>
 
 <dir>
+<title>Resident Evil</title>
+	<link>https://github.com/nostromorepo/Project-files/raw/master/RESIDENT_EVIL_ALL_MOVIES.xml</link>
+	<thumbnail>https://github.com/nostromorepo/Project-files/raw/master/residentevilposter.jpg</thumbnail>
+	<fanart>https://github.com/nostromorepo/Project-files/raw/master/residentevilwall.jpg</fanart>
+</dir>
+
+<dir>
 <title>100 Best Action</title>
 	<link>https://github.com/nostromorepo/Project-files/raw/master/Top_100_Greatest_Action_Movies_of_All_Time.xml</link>
 	<thumbnail>https://github.com/nostromorepo/Project-files/raw/master/actionposter.png</thumbnail>
