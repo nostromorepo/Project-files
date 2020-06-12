@@ -1,0 +1,792 @@
+<item>
+	<title>[COLOR=white]Iron Man[/COLOR]</title>
+	<meta>
+	<imdb>tt0371746</imdb>
+	<content>movie</content>
+	<title>Iron Man</title>
+	<year>2008</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR orange]Trailer Link[/COLOR]>https://www.youtube.com/watch?v=ofkcLgzNZGM&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/1726/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Iron%20Man</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/1726?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/78lPtwv72eTNqFW9COBYI0dWDJa.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/vbY95t58MDArtyUXUIb8Fx1dCry.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Iron Man[/COLOR]-Search Addon</title>
+<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Iron%20Man</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/78lPtwv72eTNqFW9COBYI0dWDJa.jpg</thumbnail>
+</plugin>
+<item>
+	<title>[COLOR=white]The Incredible Hulk[/COLOR]</title>
+	<meta>
+	<imdb>tt0800080</imdb>
+	<content>movie</content>
+	<title>The Incredible Hulk</title>
+	<year>2008</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR orange]Trailer Link[/COLOR]>https://www.youtube.com/watch?v=NWWzve8Z90s&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/1724/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=The%20Incredible%20Hulk</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/1724?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/vcFeElC8eXI668WSIxcDNkJSBxv.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/xfBnQ4mgf1jYZsscJGJjr6ce0Ar.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]The Incredible Hulk[/COLOR]-Search Addon</title>
+<link>plugin://plugin.video.dk/?action=movieSearchterm&name=The%20Incredible%20Hulk</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/vcFeElC8eXI668WSIxcDNkJSBxv.jpg</thumbnail>
+</plugin>
+<item>
+	<title>[COLOR=white]Iron Man 2[/COLOR]</title>
+	<meta>
+	<imdb>tt1228705</imdb>
+	<content>movie</content>
+	<title>Iron Man 2</title>
+	<year>2010</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR orange]Trailer Link[/COLOR]>https://www.youtube.com/watch?v=BoohRoVA9WQ&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/10138/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Iron%20Man%202</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/10138?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/93jZqX11iNmdon3zxGTlH6Q0YJb.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Iron Man 2[/COLOR]-Search Addon</title>
+<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Iron%20Man%202</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg</thumbnail>
+</plugin>
+<item>
+	<title>[COLOR=white]Thor[/COLOR]</title>
+	<meta>
+	<imdb>tt0800369</imdb>
+	<content>movie</content>
+	<title>Thor</title>
+	<year>2011</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR orange]Trailer Link[/COLOR]>https://www.youtube.com/watch?v=JOddp-nlNvQ&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/10195/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Thor</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/10195?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/c5tewtijj6aixi8zwwPuYJxifBA.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Thor[/COLOR]-Search Addon</title>
+<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Thor</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg</thumbnail>
+</plugin>
+<item>
+	<title>[COLOR=white]Captain America The First Avenger[/COLOR]</title>
+	<meta>
+	<imdb>tt0458339</imdb>
+	<content>movie</content>
+	<title>Captain America The First Avenger</title>
+	<year>2011</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR orange]Trailer Link[/COLOR]>https://www.youtube.com/watch?v=jX-dpQAginE&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/1771/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Captain%20America%20The%20First%20Avenger</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/1771?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/iQh64TQiPoTK3yZ3duC3y0tKgy3.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Captain America The First Avenger[/COLOR]-Search Addon</title>
+<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Captain%20America%20The%20First%20Avenger</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg</thumbnail>
+</plugin>
+<item>
+	<title>[COLOR=white]The Avengers[/COLOR]</title>
+	<meta>
+	<imdb>tt0848228</imdb>
+	<content>movie</content>
+	<title>The Avengers</title>
+	<year>2012</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR orange]Trailer Link[/COLOR]>https://www.youtube.com/watch?v=eOrNdBpGMv8&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/24428/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=The%20Avengers</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/24428?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/kwUQFeFXOOpgloMgZaadhzkbTI4.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]The Avengers[/COLOR]-Search Addon</title>
+<link>plugin://plugin.video.dk/?action=movieSearchterm&name=The%20Avengers</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg</thumbnail>
+</plugin>
+<item>
+	<title>[COLOR=white]Iron Man Three[/COLOR]</title>
+	<meta>
+	<imdb>tt1300854</imdb>
+	<content>movie</content>
+	<title>Iron Man Three</title>
+	<year>2013</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR orange]Trailer Link[/COLOR]>https://www.youtube.com/watch?v=f_h95mEd4TI&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/68721/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Iron%20Man%20Three</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/68721?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/2ymO6kST1wwtuSlHifAoG2n2fe5.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Iron Man Three[/COLOR]-Search Addon</title>
+<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Iron%20Man%20Three</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg</thumbnail>
+</plugin>
+<item>
+	<title>[COLOR=white]Thor The Dark World[/COLOR]</title>
+	<meta>
+	<imdb>tt1981115</imdb>
+	<content>movie</content>
+	<title>Thor The Dark World</title>
+	<year>2013</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR orange]Trailer Link[/COLOR]>https://www.youtube.com/watch?v=7p7rocHEecE&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/76338/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Thor%20The%20Dark%20World</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/76338?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/uhYoytlNaq46dG81wLmHqaSuzWu.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Thor The Dark World[/COLOR]-Search Addon</title>
+<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Thor%20The%20Dark%20World</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg</thumbnail>
+</plugin>
+<item>
+	<title>[COLOR=white]Captain America The Winter Soldier[/COLOR]</title>
+	<meta>
+	<imdb>tt1843866</imdb>
+	<content>movie</content>
+	<title>Captain America The Winter Soldier</title>
+	<year>2014</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR orange]Trailer Link[/COLOR]>https://www.youtube.com/watch?v=tbayiPxkUMM&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/100402/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Captain%20America%20The%20Winter%20Soldier</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/100402?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/yHB0eNR8rvCpn0VdghEwBsXAC0N.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Captain America The Winter Soldier[/COLOR]-Search Addon</title>
+<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Captain%20America%20The%20Winter%20Soldier</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg</thumbnail>
+</plugin>
+<item>
+	<title>[COLOR=white]Guardians of the Galaxy[/COLOR]</title>
+	<meta>
+	<imdb>tt2015381</imdb>
+	<content>movie</content>
+	<title>Guardians of the Galaxy</title>
+	<year>2014</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR orange]Trailer Link[/COLOR]>https://www.youtube.com/watch?v=b7yOuhI1dzU&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/118340/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Guardians%20of%20the%20Galaxy</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/118340?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/mZSAu5acXueGC4Z3S5iLSWx8AEp.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Guardians of the Galaxy[/COLOR]-Search Addon</title>
+<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Guardians%20of%20the%20Galaxy</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg</thumbnail>
+</plugin>
+<item>
+	<title>[COLOR=white]Avengers Age of Ultron[/COLOR]</title>
+	<meta>
+	<imdb>tt2395427</imdb>
+	<content>movie</content>
+	<title>Avengers Age of Ultron</title>
+	<year>2015</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR orange]Trailer Link[/COLOR]>https://www.youtube.com/watch?v=n312Tk09rxE&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/99861/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Avengers%20Age%20of%20Ultron</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/99861?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/8i6ZDk97Vyh0jHohMG4vFeFuKJh.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Avengers Age of Ultron[/COLOR]-Search Addon</title>
+<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Avengers%20Age%20of%20Ultron</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg</thumbnail>
+</plugin>
+<item>
+	<title>[COLOR=white]Ant Man[/COLOR]</title>
+	<meta>
+	<imdb>tt0478970</imdb>
+	<content>movie</content>
+	<title>Ant Man</title>
+	<year>2015</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR orange]Trailer Link[/COLOR]>https://www.youtube.com/watch?v=xInh3VhAWs8&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/102899/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Ant%20Man</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/102899?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/fddtVEUozxvLmehR5yGZjem44pD.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/eDzUGAPSf6vv1J29MJM0jlCiDJL.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Ant Man[/COLOR]-Search Addon</title>
+<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Ant%20Man</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/fddtVEUozxvLmehR5yGZjem44pD.jpg</thumbnail>
+</plugin>
+<item>
+	<title>[COLOR=white]Captain America Civil War[/COLOR]</title>
+	<meta>
+	<imdb>tt3498820</imdb>
+	<content>movie</content>
+	<title>Captain America Civil War</title>
+	<year>2016</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR orange]Trailer Link[/COLOR]>https://www.youtube.com/watch?v=43NWzay3W4s&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/271110/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Captain%20America%20Civil%20War</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/271110?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/8xA9XQ6KfvXFKcNLNRWSPT39Gaz.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/7FWlcZq3r6525LWOcvO9kNWurN1.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Captain America Civil War[/COLOR]-Search Addon</title>
+<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Captain%20America%20Civil%20War</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/8xA9XQ6KfvXFKcNLNRWSPT39Gaz.jpg</thumbnail>
+</plugin>
+<item>
+	<title>[COLOR=white]Doctor Strange[/COLOR]</title>
+	<meta>
+	<imdb>tt1211837</imdb>
+	<content>movie</content>
+	<title>Doctor Strange</title>
+	<year>2016</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR orange]Trailer Link[/COLOR]>https://www.youtube.com/watch?v=Lt-U_t2pUHI&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/284052/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Doctor%20Strange</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/284052?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/gwi5kL7HEWAOTffiA14e4SbOGra.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/maa4191Pfvs3SGR3ECYC34kaRGQ.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Doctor Strange[/COLOR]-Search Addon</title>
+<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Doctor%20Strange</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/gwi5kL7HEWAOTffiA14e4SbOGra.jpg</thumbnail>
+</plugin>
+<item>
+	<title>[COLOR=white]Guardians of the Galaxy Vol 2[/COLOR]</title>
+	<meta>
+	<imdb>tt3896198</imdb>
+	<content>movie</content>
+	<title>Guardians of the Galaxy Vol 2</title>
+	<year>2017</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR orange]Trailer Link[/COLOR]>https://www.youtube.com/watch?v=2WhQcK-Zaok&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/283995/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Guardians%20of%20the%20Galaxy%20Vol%202</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/283995?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/aJn9XeesqsrSLKcHfHP4u5985hn.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Guardians of the Galaxy Vol 2[/COLOR]-Search Addon</title>
+<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Guardians%20of%20the%20Galaxy%20Vol%202</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg</thumbnail>
+</plugin>
+<item>
+	<title>[COLOR=white]Spider Man Homecoming[/COLOR]</title>
+	<meta>
+	<imdb>tt2250912</imdb>
+	<content>movie</content>
+	<title>Spider Man Homecoming</title>
+	<year>2017</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR orange]Trailer Link[/COLOR]>https://www.youtube.com/watch?v=rk-dF1lIbIg&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/315635/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Spider%20Man%20Homecoming</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/315635?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/vc8bCGjdVp0UbMNLzHnHSLRbBWQ.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Spider Man Homecoming[/COLOR]-Search Addon</title>
+<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Spider%20Man%20Homecoming</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg</thumbnail>
+</plugin>
+<item>
+	<title>[COLOR=white]Thor Ragnarok[/COLOR]</title>
+	<meta>
+	<imdb>tt3501632</imdb>
+	<content>movie</content>
+	<title>Thor Ragnarok</title>
+	<year>2017</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR orange]Trailer Link[/COLOR]>https://www.youtube.com/watch?v=v7MGUNV8MxU&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/284053/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Thor%20Ragnarok</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/284053?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/kaIfm5ryEOwYg8mLbq8HkPuM1Fo.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Thor Ragnarok[/COLOR]-Search Addon</title>
+<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Thor%20Ragnarok</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg</thumbnail>
+</plugin>
+<item>
+	<title>[COLOR=white]Black Panther[/COLOR]</title>
+	<meta>
+	<imdb>tt1825683</imdb>
+	<content>movie</content>
+	<title>Black Panther</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR orange]Trailer Link[/COLOR]>https://www.youtube.com/watch?v=dxWvtMOGAhw&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/284054/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Black%20Panther</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/284054?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/uxzzxijgPIY7slzFvMotPv8wjKA.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/6ELJEzQJ3Y45HczvreC3dg0GV5R.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Black Panther[/COLOR]-Search Addon</title>
+<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Black%20Panther</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/uxzzxijgPIY7slzFvMotPv8wjKA.jpg</thumbnail>
+</plugin>
+<item>
+	<title>[COLOR=white]Avengers Infinity War[/COLOR]</title>
+	<meta>
+	<imdb>tt4154756</imdb>
+	<content>movie</content>
+	<title>Avengers Infinity War</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR orange]Trailer Link[/COLOR]>https://www.youtube.com/watch?v=sAOzrChqmd0&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/299536/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Avengers%20Infinity%20War</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/299536?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/lmZFxXgJE3vgrciwuDib0N8CfQo.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Avengers Infinity War[/COLOR]-Search Addon</title>
+<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Avengers%20Infinity%20War</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg</thumbnail>
+</plugin>
+<item>
+	<title>[COLOR=white]Ant Man and the Wasp[/COLOR]</title>
+	<meta>
+	<imdb>tt5095030</imdb>
+	<content>movie</content>
+	<title>Ant Man and the Wasp</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR orange]Trailer Link[/COLOR]>https://www.youtube.com/watch?v=8_rTIAOohas&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/363088/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Ant%20Man%20and%20the%20Wasp</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/363088?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/eivQmS3wqzqnQWILHLc4FsEfcXP.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/6P3c80EOm7BodndGBUAJHHsHKrp.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Ant Man and the Wasp[/COLOR]-Search Addon</title>
+<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Ant%20Man%20and%20the%20Wasp</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/eivQmS3wqzqnQWILHLc4FsEfcXP.jpg</thumbnail>
+</plugin>
+<item>
+	<title>[COLOR=white]Captain Marvel[/COLOR]</title>
+	<meta>
+	<imdb>tt4154664</imdb>
+	<content>movie</content>
+	<title>Captain Marvel</title>
+	<year>2019</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR orange]Trailer Link[/COLOR]>https://www.youtube.com/watch?v=Z1BCujX3pw8&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/299537/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Captain%20Marvel</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/299537?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/w2PMyoyLU22YvrGK3smVM9fW1jj.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Captain Marvel[/COLOR]-Search Addon</title>
+<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Captain%20Marvel</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg</thumbnail>
+</plugin>
+<item>
+	<title>[COLOR=white]Avengers Endgame[/COLOR]</title>
+	<meta>
+	<imdb>tt4154796</imdb>
+	<content>movie</content>
+	<title>Avengers Endgame</title>
+	<year>2019</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR orange]Trailer Link[/COLOR]>https://www.youtube.com/watch?v=hA6hldpSTF8&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/299534/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Avengers%20Endgame</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/299534?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/or06FN3Dka5tukK1e9sl16pB3iy.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Avengers Endgame[/COLOR]-Search Addon</title>
+<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Avengers%20Endgame</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/or06FN3Dka5tukK1e9sl16pB3iy.jpg</thumbnail>
+</plugin>
+<item>
+	<title>[COLOR=white]Spider Man Far From Home[/COLOR]</title>
+	<meta>
+	<imdb>tt6320628</imdb>
+	<content>movie</content>
+	<title>Spider Man Far From Home</title>
+	<year>2019</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR orange]Trailer Link[/COLOR]>https://www.youtube.com/watch?v=DYYtuKyMtY8&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/429617/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Spider%20Man%20Far%20From%20Home</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/429617?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/5myQbDzw3l8K9yofUXRJ4UTVgam.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Spider Man Far From Home[/COLOR]-Search Addon</title>
+<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Spider%20Man%20Far%20From%20Home</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg</thumbnail>
+</plugin>
+<item>
+	<title>[COLOR=white]Guardians of the Galaxy Vol 3[/COLOR]</title>
+	<meta>
+	<imdb>tt6791350</imdb>
+	<content>movie</content>
+	<title>Guardians of the Galaxy Vol 3</title>
+	<year>2023</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR orange]Trailer Link[/COLOR]>https://www.youtube.com/watch?v=DYYtuKyMtY8&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/447365/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Guardians%20of%20the%20Galaxy%20Vol%203</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/447365?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Guardians of the Galaxy Vol 3[/COLOR]-Search Addon</title>
+<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Guardians%20of%20the%20Galaxy%20Vol%203</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail>
+</plugin>
+<item>
+	<title>[COLOR=white]Untitled Disney Marvel Film[/COLOR]</title>
+	<meta>
+	<imdb>tt8097016</imdb>
+	<content>movie</content>
+	<title>Untitled Disney Marvel Film</title>
+	<year>2023</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR orange]Trailer Link[/COLOR]>https://www.youtube.com/watch?v=DYYtuKyMtY8&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/447365/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Untitled%20Disney%20Marvel%20Film</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/447365?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Untitled Disney Marvel Film[/COLOR]-Search Addon</title>
+<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Untitled%20Disney%20Marvel%20Film</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail>
+</plugin>
+<item>
+	<title>[COLOR=white]Black Widow[/COLOR]</title>
+	<meta>
+	<imdb>tt3480822</imdb>
+	<content>movie</content>
+	<title>Black Widow</title>
+	<year>2020</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR orange]Trailer Link[/COLOR]>https://www.youtube.com/watch?v=RxAtuMu_ph4&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/497698/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Black%20Widow</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/497698?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/uAUCHOYwFKQvSRZByP8rCgWKwT.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/8N0OhgolMmt8lML70slyPZpE9qY.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Black Widow[/COLOR]-Search Addon</title>
+<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Black%20Widow</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/uAUCHOYwFKQvSRZByP8rCgWKwT.jpg</thumbnail>
+</plugin>
+<item>
+	<title>[COLOR=white]Shang Chi and the Legend of the Ten Rings[/COLOR]</title>
+	<meta>
+	<imdb>tt9376612</imdb>
+	<content>movie</content>
+	<title>Shang Chi and the Legend of the Ten Rings</title>
+	<year>2021</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR orange]Trailer Link[/COLOR]>https://www.youtube.com/watch?v=RxAtuMu_ph4&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/566525/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Shang%20Chi%20and%20the%20Legend%20of%20the%20Ten%20Rings</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/566525?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Shang Chi and the Legend of the Ten Rings[/COLOR]-Search Addon</title>
+<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Shang%20Chi%20and%20the%20Legend%20of%20the%20Ten%20Rings</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail>
+</plugin>
+<item>
+	<title>[COLOR=white]Black Panther II[/COLOR]</title>
+	<meta>
+	<imdb>tt9114286</imdb>
+	<content>movie</content>
+	<title>Black Panther II</title>
+	<year>2022</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR orange]Trailer Link[/COLOR]>https://www.youtube.com/watch?v=RxAtuMu_ph4&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/505642/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Black%20Panther%20II</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/505642?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Black Panther II[/COLOR]-Search Addon</title>
+<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Black%20Panther%20II</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail>
+</plugin>
+<item>
+	<title>[COLOR=white]Doctor Strange in the Multiverse of Madness[/COLOR]</title>
+	<meta>
+	<imdb>tt9419884</imdb>
+	<content>movie</content>
+	<title>Doctor Strange in the Multiverse of Madness</title>
+	<year>2022</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR orange]Trailer Link[/COLOR]>https://www.youtube.com/watch?v=RxAtuMu_ph4&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/453395/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Doctor%20Strange%20in%20the%20Multiverse%20of%20Madness</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/453395?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Doctor Strange in the Multiverse of Madness[/COLOR]-Search Addon</title>
+<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Doctor%20Strange%20in%20the%20Multiverse%20of%20Madness</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail>
+</plugin>
+<item>
+	<title>[COLOR=white]The Eternals[/COLOR]</title>
+	<meta>
+	<imdb>tt9032400</imdb>
+	<content>movie</content>
+	<title>The Eternals</title>
+	<year>2021</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR orange]Trailer Link[/COLOR]>https://www.youtube.com/watch?v=RxAtuMu_ph4&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/524434/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=The%20Eternals</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/524434?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]The Eternals[/COLOR]-Search Addon</title>
+<link>plugin://plugin.video.dk/?action=movieSearchterm&name=The%20Eternals</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail>
+</plugin>
+<item>
+	<title>[COLOR=white]Thor Love and Thunder[/COLOR]</title>
+	<meta>
+	<imdb>tt10648342</imdb>
+	<content>movie</content>
+	<title>Thor Love and Thunder</title>
+	<year>2022</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR orange]Trailer Link[/COLOR]>https://www.youtube.com/watch?v=RxAtuMu_ph4&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/616037/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Thor%20Love%20and%20Thunder</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/616037?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Thor Love and Thunder[/COLOR]-Search Addon</title>
+<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Thor%20Love%20and%20Thunder</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail>
+</plugin>
+<item>
+	<title>[COLOR=white]Untitled Spider Man Sequel[/COLOR]</title>
+	<meta>
+	<imdb>tt10872600</imdb>
+	<content>movie</content>
+	<title>Untitled Spider Man Sequel</title>
+	<year>2021</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR orange]Trailer Link[/COLOR]>https://www.youtube.com/watch?v=RxAtuMu_ph4&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/634649/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Untitled%20Spider%20Man%20Sequel</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/634649?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Untitled Spider Man Sequel[/COLOR]-Search Addon</title>
+<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Untitled%20Spider%20Man%20Sequel</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail>
+</plugin>
+<item>
+	<title>[COLOR=white]Ant Man 3[/COLOR]</title>
+	<meta>
+	<imdb>tt11213558</imdb>
+	<content>movie</content>
+	<title>Ant Man 3</title>
+	<year>(2022)</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR orange]Trailer Link[/COLOR]>https://www.youtube.com/watch?v=RxAtuMu_ph4&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/634649/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Ant%20Man%203</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/634649?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Ant Man 3[/COLOR]-Search Addon</title>
+<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Ant%20Man%203</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail>
+</plugin>
+<item>
+	<title>[COLOR=white]Captain Marvel 2[/COLOR]</title>
+	<meta>
+	<imdb>tt10676048</imdb>
+	<content>movie</content>
+	<title>Captain Marvel 2</title>
+	<year>2022</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR orange]Trailer Link[/COLOR]>https://www.youtube.com/watch?v=RxAtuMu_ph4&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/609681/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Captain%20Marvel%202</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/609681?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Captain Marvel 2[/COLOR]-Search Addon</title>
+<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Captain%20Marvel%202</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail>
+</plugin>
+<item>
+	<title>[COLOR=white]Fantastic Four[/COLOR]</title>
+	<meta>
+	<imdb>tt10676052</imdb>
+	<content>movie</content>
+	<title>Fantastic Four</title>
+	<year>2022</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR orange]Trailer Link[/COLOR]>https://www.youtube.com/watch?v=RxAtuMu_ph4&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/617126/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Fantastic%20Four</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/617126?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Fantastic Four[/COLOR]-Search Addon</title>
+<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Fantastic%20Four</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail>
+</plugin>
+<item>
+	<title>[COLOR=white]Blade[/COLOR]</title>
+	<meta>
+	<imdb>tt10671440</imdb>
+	<content>movie</content>
+	<title>Blade</title>
+	<year>2022</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR orange]Trailer Link[/COLOR]>https://www.youtube.com/watch?v=RxAtuMu_ph4&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/617127/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Blade</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/617127?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Blade[/COLOR]-Search Addon</title>
+<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Blade</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail>
+</plugin>
