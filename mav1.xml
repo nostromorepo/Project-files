@@ -16,8 +16,6 @@
 	<fanart>https://image.tmdb.org/t/p/w1280/vbY95t58MDArtyUXUIb8Fx1dCry.jpg</fanart>
 </item>
 <plugin>
-	<title>[COLOR=white]Iron Man[/COLOR]-Search Addon</title>
-<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Iron%20Man</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/78lPtwv72eTNqFW9COBYI0dWDJa.jpg</thumbnail>
 </plugin>
 <item>
@@ -38,8 +36,6 @@
 	<fanart>https://image.tmdb.org/t/p/w1280/xfBnQ4mgf1jYZsscJGJjr6ce0Ar.jpg</fanart>
 </item>
 <plugin>
-	<title>[COLOR=white]The Incredible Hulk[/COLOR]-Search Addon</title>
-<link>plugin://plugin.video.dk/?action=movieSearchterm&name=The%20Incredible%20Hulk</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/vcFeElC8eXI668WSIxcDNkJSBxv.jpg</thumbnail>
 </plugin>
 <item>
@@ -60,8 +56,6 @@
 	<fanart>https://image.tmdb.org/t/p/w1280/93jZqX11iNmdon3zxGTlH6Q0YJb.jpg</fanart>
 </item>
 <plugin>
-	<title>[COLOR=white]Iron Man 2[/COLOR]-Search Addon</title>
-<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Iron%20Man%202</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg</thumbnail>
 </plugin>
 <item>
@@ -82,8 +76,6 @@
 	<fanart>https://image.tmdb.org/t/p/w1280/c5tewtijj6aixi8zwwPuYJxifBA.jpg</fanart>
 </item>
 <plugin>
-	<title>[COLOR=white]Thor[/COLOR]-Search Addon</title>
-<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Thor</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg</thumbnail>
 </plugin>
 <item>
@@ -104,8 +96,6 @@
 	<fanart>https://image.tmdb.org/t/p/w1280/iQh64TQiPoTK3yZ3duC3y0tKgy3.jpg</fanart>
 </item>
 <plugin>
-	<title>[COLOR=white]Captain America The First Avenger[/COLOR]-Search Addon</title>
-<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Captain%20America%20The%20First%20Avenger</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg</thumbnail>
 </plugin>
 <item>
@@ -126,8 +116,6 @@
 	<fanart>https://image.tmdb.org/t/p/w1280/kwUQFeFXOOpgloMgZaadhzkbTI4.jpg</fanart>
 </item>
 <plugin>
-	<title>[COLOR=white]The Avengers[/COLOR]-Search Addon</title>
-<link>plugin://plugin.video.dk/?action=movieSearchterm&name=The%20Avengers</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg</thumbnail>
 </plugin>
 <item>
@@ -148,8 +136,6 @@
 	<fanart>https://image.tmdb.org/t/p/w1280/2ymO6kST1wwtuSlHifAoG2n2fe5.jpg</fanart>
 </item>
 <plugin>
-	<title>[COLOR=white]Iron Man Three[/COLOR]-Search Addon</title>
-<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Iron%20Man%20Three</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg</thumbnail>
 </plugin>
 <item>
@@ -170,8 +156,6 @@
 	<fanart>https://image.tmdb.org/t/p/w1280/uhYoytlNaq46dG81wLmHqaSuzWu.jpg</fanart>
 </item>
 <plugin>
-	<title>[COLOR=white]Thor The Dark World[/COLOR]-Search Addon</title>
-<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Thor%20The%20Dark%20World</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg</thumbnail>
 </plugin>
 <item>
@@ -192,8 +176,6 @@
 	<fanart>https://image.tmdb.org/t/p/w1280/yHB0eNR8rvCpn0VdghEwBsXAC0N.jpg</fanart>
 </item>
 <plugin>
-	<title>[COLOR=white]Captain America The Winter Soldier[/COLOR]-Search Addon</title>
-<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Captain%20America%20The%20Winter%20Soldier</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg</thumbnail>
 </plugin>
 <item>
@@ -214,8 +196,6 @@
 	<fanart>https://image.tmdb.org/t/p/w1280/mZSAu5acXueGC4Z3S5iLSWx8AEp.jpg</fanart>
 </item>
 <plugin>
-	<title>[COLOR=white]Guardians of the Galaxy[/COLOR]-Search Addon</title>
-<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Guardians%20of%20the%20Galaxy</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg</thumbnail>
 </plugin>
 <item>
@@ -236,8 +216,6 @@
 	<fanart>https://image.tmdb.org/t/p/w1280/8i6ZDk97Vyh0jHohMG4vFeFuKJh.jpg</fanart>
 </item>
 <plugin>
-	<title>[COLOR=white]Avengers Age of Ultron[/COLOR]-Search Addon</title>
-<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Avengers%20Age%20of%20Ultron</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg</thumbnail>
 </plugin>
 <item>
@@ -258,8 +236,6 @@
 	<fanart>https://image.tmdb.org/t/p/w1280/eDzUGAPSf6vv1J29MJM0jlCiDJL.jpg</fanart>
 </item>
 <plugin>
-	<title>[COLOR=white]Ant Man[/COLOR]-Search Addon</title>
-<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Ant%20Man</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/fddtVEUozxvLmehR5yGZjem44pD.jpg</thumbnail>
 </plugin>
 <item>
@@ -280,8 +256,6 @@
 	<fanart>https://image.tmdb.org/t/p/w1280/7FWlcZq3r6525LWOcvO9kNWurN1.jpg</fanart>
 </item>
 <plugin>
-	<title>[COLOR=white]Captain America Civil War[/COLOR]-Search Addon</title>
-<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Captain%20America%20Civil%20War</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/8xA9XQ6KfvXFKcNLNRWSPT39Gaz.jpg</thumbnail>
 </plugin>
 <item>
@@ -302,8 +276,6 @@
 	<fanart>https://image.tmdb.org/t/p/w1280/maa4191Pfvs3SGR3ECYC34kaRGQ.jpg</fanart>
 </item>
 <plugin>
-	<title>[COLOR=white]Doctor Strange[/COLOR]-Search Addon</title>
-<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Doctor%20Strange</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/gwi5kL7HEWAOTffiA14e4SbOGra.jpg</thumbnail>
 </plugin>
 <item>
@@ -324,8 +296,6 @@
 	<fanart>https://image.tmdb.org/t/p/w1280/aJn9XeesqsrSLKcHfHP4u5985hn.jpg</fanart>
 </item>
 <plugin>
-	<title>[COLOR=white]Guardians of the Galaxy Vol 2[/COLOR]-Search Addon</title>
-<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Guardians%20of%20the%20Galaxy%20Vol%202</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg</thumbnail>
 </plugin>
 <item>
@@ -346,8 +316,6 @@
 	<fanart>https://image.tmdb.org/t/p/w1280/vc8bCGjdVp0UbMNLzHnHSLRbBWQ.jpg</fanart>
 </item>
 <plugin>
-	<title>[COLOR=white]Spider Man Homecoming[/COLOR]-Search Addon</title>
-<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Spider%20Man%20Homecoming</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg</thumbnail>
 </plugin>
 <item>
@@ -368,8 +336,6 @@
 	<fanart>https://image.tmdb.org/t/p/w1280/kaIfm5ryEOwYg8mLbq8HkPuM1Fo.jpg</fanart>
 </item>
 <plugin>
-	<title>[COLOR=white]Thor Ragnarok[/COLOR]-Search Addon</title>
-<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Thor%20Ragnarok</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg</thumbnail>
 </plugin>
 <item>
@@ -390,8 +356,6 @@
 	<fanart>https://image.tmdb.org/t/p/w1280/6ELJEzQJ3Y45HczvreC3dg0GV5R.jpg</fanart>
 </item>
 <plugin>
-	<title>[COLOR=white]Black Panther[/COLOR]-Search Addon</title>
-<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Black%20Panther</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/uxzzxijgPIY7slzFvMotPv8wjKA.jpg</thumbnail>
 </plugin>
 <item>
@@ -412,8 +376,6 @@
 	<fanart>https://image.tmdb.org/t/p/w1280/lmZFxXgJE3vgrciwuDib0N8CfQo.jpg</fanart>
 </item>
 <plugin>
-	<title>[COLOR=white]Avengers Infinity War[/COLOR]-Search Addon</title>
-<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Avengers%20Infinity%20War</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg</thumbnail>
 </plugin>
 <item>
@@ -434,8 +396,6 @@
 	<fanart>https://image.tmdb.org/t/p/w1280/6P3c80EOm7BodndGBUAJHHsHKrp.jpg</fanart>
 </item>
 <plugin>
-	<title>[COLOR=white]Ant Man and the Wasp[/COLOR]-Search Addon</title>
-<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Ant%20Man%20and%20the%20Wasp</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/eivQmS3wqzqnQWILHLc4FsEfcXP.jpg</thumbnail>
 </plugin>
 <item>
@@ -456,8 +416,6 @@
 	<fanart>https://image.tmdb.org/t/p/w1280/w2PMyoyLU22YvrGK3smVM9fW1jj.jpg</fanart>
 </item>
 <plugin>
-	<title>[COLOR=white]Captain Marvel[/COLOR]-Search Addon</title>
-<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Captain%20Marvel</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg</thumbnail>
 </plugin>
 <item>
@@ -478,8 +436,6 @@
 	<fanart>https://image.tmdb.org/t/p/w1280/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg</fanart>
 </item>
 <plugin>
-	<title>[COLOR=white]Avengers Endgame[/COLOR]-Search Addon</title>
-<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Avengers%20Endgame</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/or06FN3Dka5tukK1e9sl16pB3iy.jpg</thumbnail>
 </plugin>
 <item>
@@ -500,8 +456,6 @@
 	<fanart>https://image.tmdb.org/t/p/w1280/5myQbDzw3l8K9yofUXRJ4UTVgam.jpg</fanart>
 </item>
 <plugin>
-	<title>[COLOR=white]Spider Man Far From Home[/COLOR]-Search Addon</title>
-<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Spider%20Man%20Far%20From%20Home</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg</thumbnail>
 </plugin>
 <item>
@@ -522,8 +476,6 @@
 	<fanart>https://image.tmdb.org/t/p/w1280</fanart>
 </item>
 <plugin>
-	<title>[COLOR=white]Guardians of the Galaxy Vol 3[/COLOR]-Search Addon</title>
-<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Guardians%20of%20the%20Galaxy%20Vol%203</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail>
 </plugin>
 <item>
@@ -544,8 +496,6 @@
 	<fanart>https://image.tmdb.org/t/p/w1280</fanart>
 </item>
 <plugin>
-	<title>[COLOR=white]Untitled Disney Marvel Film[/COLOR]-Search Addon</title>
-<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Untitled%20Disney%20Marvel%20Film</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail>
 </plugin>
 <item>
@@ -566,8 +516,6 @@
 	<fanart>https://image.tmdb.org/t/p/w1280/8N0OhgolMmt8lML70slyPZpE9qY.jpg</fanart>
 </item>
 <plugin>
-	<title>[COLOR=white]Black Widow[/COLOR]-Search Addon</title>
-<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Black%20Widow</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/uAUCHOYwFKQvSRZByP8rCgWKwT.jpg</thumbnail>
 </plugin>
 <item>
@@ -588,8 +536,6 @@
 	<fanart>https://image.tmdb.org/t/p/w1280</fanart>
 </item>
 <plugin>
-	<title>[COLOR=white]Shang Chi and the Legend of the Ten Rings[/COLOR]-Search Addon</title>
-<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Shang%20Chi%20and%20the%20Legend%20of%20the%20Ten%20Rings</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail>
 </plugin>
 <item>
@@ -610,8 +556,6 @@
 	<fanart>https://image.tmdb.org/t/p/w1280</fanart>
 </item>
 <plugin>
-	<title>[COLOR=white]Black Panther II[/COLOR]-Search Addon</title>
-<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Black%20Panther%20II</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail>
 </plugin>
 <item>
@@ -632,8 +576,6 @@
 	<fanart>https://image.tmdb.org/t/p/w1280</fanart>
 </item>
 <plugin>
-	<title>[COLOR=white]Doctor Strange in the Multiverse of Madness[/COLOR]-Search Addon</title>
-<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Doctor%20Strange%20in%20the%20Multiverse%20of%20Madness</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail>
 </plugin>
 <item>
@@ -654,8 +596,6 @@
 	<fanart>https://image.tmdb.org/t/p/w1280</fanart>
 </item>
 <plugin>
-	<title>[COLOR=white]The Eternals[/COLOR]-Search Addon</title>
-<link>plugin://plugin.video.dk/?action=movieSearchterm&name=The%20Eternals</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail>
 </plugin>
 <item>
@@ -676,8 +616,6 @@
 	<fanart>https://image.tmdb.org/t/p/w1280</fanart>
 </item>
 <plugin>
-	<title>[COLOR=white]Thor Love and Thunder[/COLOR]-Search Addon</title>
-<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Thor%20Love%20and%20Thunder</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail>
 </plugin>
 <item>
@@ -698,8 +636,6 @@
 	<fanart>https://image.tmdb.org/t/p/w1280</fanart>
 </item>
 <plugin>
-	<title>[COLOR=white]Untitled Spider Man Sequel[/COLOR]-Search Addon</title>
-<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Untitled%20Spider%20Man%20Sequel</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail>
 </plugin>
 <item>
@@ -720,8 +656,6 @@
 	<fanart>https://image.tmdb.org/t/p/w1280</fanart>
 </item>
 <plugin>
-	<title>[COLOR=white]Ant Man 3[/COLOR]-Search Addon</title>
-<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Ant%20Man%203</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail>
 </plugin>
 <item>
@@ -742,8 +676,6 @@
 	<fanart>https://image.tmdb.org/t/p/w1280</fanart>
 </item>
 <plugin>
-	<title>[COLOR=white]Captain Marvel 2[/COLOR]-Search Addon</title>
-<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Captain%20Marvel%202</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail>
 </plugin>
 <item>
@@ -764,8 +696,6 @@
 	<fanart>https://image.tmdb.org/t/p/w1280</fanart>
 </item>
 <plugin>
-	<title>[COLOR=white]Fantastic Four[/COLOR]-Search Addon</title>
-<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Fantastic%20Four</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail>
 </plugin>
 <item>
@@ -786,7 +716,5 @@
 	<fanart>https://image.tmdb.org/t/p/w1280</fanart>
 </item>
 <plugin>
-	<title>[COLOR=white]Blade[/COLOR]-Search Addon</title>
-<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Blade</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail>
 </plugin>
